@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-07-16T12:18:34.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="VFy-wgXEpF8TKGyzs9sU" type="github">
+  <diagram name="Page-1" id="u6hdW8_wzFo_5SwK8xbc">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="App Initialization                   " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="2">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Opening" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Database Connection Established       " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="5">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Coding Stage Starts                   " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="7">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Development" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="First Prototype Created               " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="10">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="User Testing and Feedback             " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="12">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Version 1.0 Released                  " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="14">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Deployment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Bug Fixes and Performance Enhancements" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="17">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Version 2.0 Released                  " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="19">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Version 3.0 Development               " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="21">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Future Plans" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="New Features Implementation           " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="24">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Beta Testing and User Feedback         " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="26">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Final Release                         " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;" vertex="1" parent="28">
+          <mxGeometry x="60" y="NaN" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30" style="endArrow=block;strokeWidth=3;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="190" as="sourcePoint" />
+            <mxPoint x="2550" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="Timeline with Key Events" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" width="288" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
